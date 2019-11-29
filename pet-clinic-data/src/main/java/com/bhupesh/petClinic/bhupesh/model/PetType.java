@@ -1,4 +1,4 @@
-package com.bhupesh.petClinic.model;
+package com.bhupesh.petClinic.bhupesh.model;
 
 public class PetType {
 
